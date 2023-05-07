@@ -6,7 +6,7 @@ Un recorrido por la "vida del software" y de como se inserta el testing en esta 
 
 ⏯️ [Ciclo de Testing](https://www.youtube.com/watch?v=bv4pYWZMcAU)
 
-![mapa-testing](/04/images/mapa-testing.jpg)
+![mapa-testing](/images/mapa-testing.jpg)
 
 ## Clase 2 en Vivo. Dictada en el mes de Noviembre de 2022. Curso de Testing. Transmisión en vivo de Instituto Web
 

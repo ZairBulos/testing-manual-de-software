@@ -24,4 +24,4 @@ Entre las cualidades que debe tener un tester de software figuran: ser curioso, 
 
 ## ¿Cuál es el alcance del Testing?
 
-![alcance-testing](/01/images/alcance-testing.jpg)
+![alcance-testing](/images/alcance-testing.jpg)
